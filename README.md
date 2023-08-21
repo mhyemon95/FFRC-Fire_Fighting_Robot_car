@@ -1,5 +1,5 @@
 # FFRC-Fire_Fighting_Robot_car
-Harnessing Cutting-Edge Technology to Combat Fires and Protect Communities.
+
 #Introduction 
 A Firefighter Robot is an advanced and specialized robotic system designed to assist and augment human firefighters in the task of combating fires and managing emergency situations. These robots are equipped with a wide range of technologies and features that enable them to operate in hazardous environments and perform critical firefighting tasks efficiently and safely. Here is a description of the typical features and capabilities of a Firefighter Robot:
 
