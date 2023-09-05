@@ -1,0 +1,20 @@
+Here is a list of items that are required for a project using an Arduino Board (UNO):
+- USB-A to micro-USB cable
+- Car chassis
+- L298 motor driver module
+- Flame sensor module
+- Servo Motor
+- L293D Motor Driver Module
+- Mini DC Submersible Pump
+- 12V Battery
+- On-Off-Switch
+- DC Female Connector Jack
+- Connecting wires
+- Soldering iron
+- Solder wire
+- Hot Melt Glue Gun
+
+All of these items are important for the project to function correctly. Please ensure that you have all of them before starting the project.
+
+**Software Required**
+Arduino IDE
